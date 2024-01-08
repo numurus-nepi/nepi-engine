@@ -58,7 +58,7 @@ Workflow:
 
 - [nepi_rui](https://github.com/numurus-nepi/nepi_rui)
 
-- [nepi-bot](https://github.com/numurus-nepi/nepi_rui)
+- [nepi-bot](https://github.com/numurus-nepi/nepi-bot)
 
 - [nepi_edge_sdk_link](https://github.com/numurus-nepi/nepi_edge_sdk_link)
 
